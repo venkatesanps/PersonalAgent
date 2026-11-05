@@ -17,12 +17,19 @@ Read by the chief-of-staff agent on every run. Fill in the brackets; keep it sho
 - [Names or roles]
 
 ## Active side projects (rank these in the first weekly review)
-- TokenLens
-- Top 30 Claude plugins repo
-- DFW foreclosure dashboard
-- TrendCast
-- Trading bot
-- Tamil animated stories channel
-- H-4 EAD dashboard
-- Retirement dashboard
-- [Add or remove]
+
+The weekly review maps GitHub commits to projects with this table. Fill in the missing repo names.
+
+| Project | GitHub repo (venkatesanps/…) | Serves priority |
+| --- | --- | --- |
+| PersonalAgent (this agent) | PersonalAgent | [1/2/3] |
+| Top 30 Claude plugins repo | top30ongithub | [1/2/3] |
+| TokenLens | [repo] | [1/2/3] |
+| DFW foreclosure dashboard | [repo] | [1/2/3] |
+| TrendCast | [repo] | [1/2/3] |
+| Trading bot | [repo] | [1/2/3] |
+| Tamil animated stories channel | [repo] | [1/2/3] |
+| H-4 EAD dashboard | [repo] | [1/2/3] |
+| Retirement dashboard | [repo] | [1/2/3] |
+| [What is this?] | staff-scheduler | [1/2/3] |
+| [Add or remove] | | |
